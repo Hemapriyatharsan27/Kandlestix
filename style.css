@@ -306,7 +306,7 @@ section .title::after{
 /* skills section styling */
 
 .skills .title::after{
-    content: "what we promise";
+    content: "Our promise";
 }
 .skills .skills-content .column{
      width: calc(100% - 80px);       /*changes */
@@ -380,7 +380,7 @@ section .title::after{
 
 /* teams section styling */
 .teams .title::after{
-    content: "Products that we own";
+    content: "Our Products";
 }
 .teams .carousel .card {
     background: #222;
